@@ -1,0 +1,110 @@
+[
+  {
+    "region": "Allston",
+    "x": 42.359681,
+    "y": -71.128774,
+    "team": 0
+  },
+  {
+    "region": "Back Bay",
+    "x": 42.349279,
+    "y": -71.080591,
+    "team": 1
+  },
+  {
+    "region": "Bay Village",
+    "x": 42.349128,
+    "y": -71.069216,
+    "team": 2
+  },
+  {
+    "region": "Beacon Hill",
+    "x": 42.35912,
+    "y": -71.06708,
+    "team": 1
+  },
+  {
+    "region": "Brighton",
+    "x": 42.347391,
+    "y": -71.153471,
+    "team": 0
+  },
+  {
+    "region": "Charlestown",
+    "x": 42.379185,
+    "y": -71.058509,
+    "team": 0
+  },
+  {
+    "region": "Chinatown",
+    "x": 42.349677,
+    "y": -71.062408,
+    "team": 2
+  },
+  {
+    "region": "Dorchester",
+    "x": 42.299435,
+    "y": -71.060418,
+    "team": 2
+  },
+  {
+    "region": "Downtown",
+    "x": 42.358503,
+    "y": -71.056617,
+    "team": 1
+  },
+  {
+    "region": "East Boston",
+    "x": 42.371755,
+    "y": -71.024829,
+    "team": 0
+  },
+  {
+    "region": "Fenway-Kenmore",
+    "x": 42.343084,
+    "y": -71.09623,
+    "team": 2
+  },
+  {
+    "region": "Hyde Park",
+    "x": 42.254162,
+    "y": -71.126165,
+    "team": 1
+  },
+  {
+    "region": "Jamaica Plain",
+    "x": 42.312279,
+    "y": -71.115392,
+    "team": 2
+  },
+  {
+    "region": "Mattapan",
+    "x": 42.281064,
+    "y": -71.089433,
+    "team": 0
+  },
+  {
+    "region": "Mission Hill",
+    "x": 42.330796,
+    "y": -71.104794,
+    "team": 1
+  },
+  {
+    "region": "North End",
+    "x": 42.365624,
+    "y": -71.054823,
+    "team": 2
+  },
+  {
+    "region": "Roslindale",
+    "x": 42.286409,
+    "y": -71.124333,
+    "team": 0
+  },
+  {
+    "region": "Roxbury",
+    "x": 42.31583,
+    "y": -71.086626,
+    "team": 1
+  }
+]
