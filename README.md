@@ -1,5 +1,5 @@
 # Volunteer Go
-An app that won "Most Likely to Make Money" made at HackBeanpot, a hackathon run by a club at Northeastern University. The members of the team were [Joshua Qin](https://github.com/qinjoshua), [Vasu Zalawadia](https://github.com/vasuz/) who worked on the [backend code](https://github.com/qinjoshua/beanteering) and [Sadie Levy](https://github.com/levylevylevy), and me who worked on the frontend. Specifically, Joshua worked on the authentication and API, Vasu worked on web scraping, Sadie worked on graphic design, and I worked on the Flutter code.
+An app that won "Most Likely to Make Money" made at HackBeanpot, a hackathon run by a club at Northeastern University. The members of the team were [Joshua Qin](https://github.com/qinjoshua), [Vasu Zalawadia](https://github.com/vasuz/) who worked on the [backend code](https://github.com/qinjoshua/beanteering) and [Sadie Levy](https://github.com/levylevylevy), and myself who worked on the frontend. Specifically, Joshua worked on the authentication and API, Vasu worked on web scraping, Sadie worked on graphic design, and I worked on the Flutter code.
 
 ![Screenshot of app screens built for Volunteer Go](https://github.com/garrrettt/volunteer-go/blob/master/screenshots/Combined.png)
 
